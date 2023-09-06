@@ -1,4 +1,4 @@
-# Smart Calculation
+# Smart Calculation v1.0
 
 ![preview](images/calc_preview.png)
 
